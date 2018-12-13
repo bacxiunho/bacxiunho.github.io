@@ -18,25 +18,13 @@
   </url>
   
   <url>
-    <loc>https://bacxiunho.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bacxiunho.github.io/tags/getting-started/</loc>
-    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bacxiunho.github.io/post/</loc>
     <lastmod>2018-03-03T13:23:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bacxiunho.github.io/tags/</loc>
-    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+    <loc>https://bacxiunho.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
