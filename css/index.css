@@ -27,7 +27,7 @@ a {
 .site-date-catalog {
   font-size: 2rem;
   font-weight: normal;
-  visibility: hidden;
+  display: none;
 }
 
 .signatures {
