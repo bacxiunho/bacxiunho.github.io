@@ -21,11 +21,13 @@ a {
   font-size: 3rem;
   margin-top: 32px;
   font-weight: 700;
+  text-align: center;
 }
 
 .site-date-catalog {
   font-size: 2rem;
   font-weight: normal;
+  visibility: hidden;
 }
 
 .signatures {
