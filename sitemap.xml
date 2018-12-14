@@ -8,12 +8,13 @@
   </url>
   
   <url>
-    <loc>https://bacxiunho.github.io/about/</loc>
+    <loc>https://bacxiunho.github.io/</loc>
+    <lastmod>2018-11-26T00:00:00+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bacxiunho.github.io/</loc>
-    <lastmod>2018-11-26T00:00:00+07:00</lastmod>
+    <loc>https://bacxiunho.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -24,7 +25,7 @@
   </url>
   
   <url>
-    <loc>https://bacxiunho.github.io/series/</loc>
+    <loc>https://bacxiunho.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
